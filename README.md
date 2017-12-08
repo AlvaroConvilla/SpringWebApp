@@ -20,3 +20,8 @@ mvn package
 ```
 java -jar target/helloWorld_v1.1-0.1.1.jar 
 ```
+
+### En un navegador web
+```
+http://localhost:8080/
+```
